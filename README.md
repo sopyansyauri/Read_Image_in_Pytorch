@@ -1,4 +1,4 @@
-# Read_Image_in_Pytorch
+# Read Image in Pytorch
 
 first of all, create `Virtual Environment` Python:
 ### Linux
